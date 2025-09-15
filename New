@@ -7,7 +7,7 @@
     "title": "App Has Expired",
     "description": " تم تنزيل اصدار جديد من تطبيق اصبح هذا اصدار منتهي يرجى التحديث الى اصدار v20. 6.0",
     "isForce": true,
-    "isExpired": true,
+    "isExpired": false,
     "expiryDate": "2025-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
